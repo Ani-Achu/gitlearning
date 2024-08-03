@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-edit from offline....
-=======
+
 edit from online....
->>>>>>> 8817026af3ad4289e1ba972d8ad4cbe4d5aef5b6
+
